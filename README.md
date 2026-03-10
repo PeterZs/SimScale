@@ -39,7 +39,12 @@
 > 
 >
 > - 📧 Primary Contact: Haochen Tian (tianhaochen2023@ia.ac.cn)
-> - 📜 Materials: 🌐 [𝕏](https://x.com/OpenDriveLab/status/1999507869633527845) | 📰 [Media](https://mp.weixin.qq.com/s/OGV3Xlb0bHSSSloG11qFJA) | 🗂️ [Slides](https://docs.google.com/presentation/d/17qbsKZU9jdw7MfiPk7hZelaLb3leR2M76gPcMkuf1MI/edit?usp=sharing) | 🎬 [Talk (in Chinese)](https://www.bilibili.com/video/BV1tqrEBNECQ)
+> - 📜 Materials: 
+🌐 [𝕏](https://x.com/OpenDriveLab/status/1999507869633527845) | 
+📰 [Media](https://mp.weixin.qq.com/s/OGV3Xlb0bHSSSloG11qFJA) | 
+🗂️ [Slides](https://docs.google.com/presentation/d/17qbsKZU9jdw7MfiPk7hZelaLb3leR2M76gPcMkuf1MI/edit?usp=sharing) | 
+🪧 [Poster](https://docs.google.com/presentation/d/1OrEj_llLyHPK8uSj_tmiam5T3BMYXoNPUjEw5h1_slk/edit?usp=sharing) |
+🎬 [Talk (in Chinese)](https://www.bilibili.com/video/BV1tqrEBNECQ)
 > - 🖊️ Joint effort by CASIA, OpenDriveLab at HKU, and Xiaomi EV.
 
 ---
