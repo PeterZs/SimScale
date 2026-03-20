@@ -184,7 +184,7 @@
 </table>
 
 > [!NOTE]
-> We fixed a minor error in the simulation process without changing the method, resulting in better performance than the numbers reported in the arXiv version. We will update the arXiv paper soon.
+> We fixed a minor error in the simulation process without changing the method, resulting in better performance than the numbers reported in the early arXiv version v2. We have updated the arXiv version v2.
 
 
 ## 🎯 Getting Started
