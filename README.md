@@ -57,8 +57,9 @@
 
 
 ## 📢 News
-- **`[2025/2/21]`** 🎉 Accepted to CVPR 2026.
-- **`[2025/1/16]`** We released the data and models on 👾 ModelScope to better serve users in China.
+- **`[2026/4/9]`** 🎉🎉🎉 Awarded as CVPR 2026 Oral.
+- **`[2026/2/21]`** 🎉 Accepted to CVPR 2026.
+- **`[2026/1/16]`** We released the data and models on 👾 ModelScope to better serve users in China.
 - **`[2026/1/6]`** We released the code **v1.0**.
 - **`[2025/12/31]`** We released the data and models **v1.0** on 🤗 Hugging Face. Happy New Year ! 🎄
 - **`[2025/12/1]`** We released our [paper](https://arxiv.org/abs/2511.23369) on arXiv. 
