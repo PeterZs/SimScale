@@ -25,7 +25,7 @@
 > [Haochen Tian](https://github.com/hctian713), 
 > [Tianyu Li](https://sephyli.github.io/), 
 > [Haochen Liu](https://georgeliu233.github.io/), 
-> [Jiazhi Yang](https://github.com/YTEP-ZHI), 
+> [Jiazhi Yang](https://jiazyang.github.io/), 
 > [Yihang Qiu](https://github.com/gihharwtw),
 > [Guang Li](https://scholar.google.com/citations?user=McEfO8UAAAAJ&hl=en),
 > [Junli Wang](https://openreview.net/profile?id=%7EJunli_Wang4),
