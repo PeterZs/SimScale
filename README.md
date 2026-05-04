@@ -57,7 +57,7 @@
 
 
 ## 📢 News
-- **`[2026/4/9]`** 🎉🎉🎉 Awarded as CVPR 2026 Oral.
+- **`[2026/4/9]`** 🎉🎉🎉 Selected as CVPR 2026 **Oral Presentation**!
 - **`[2026/2/21]`** 🎉 Accepted to CVPR 2026.
 - **`[2026/1/16]`** We released the data and models on 👾 ModelScope to better serve users in China.
 - **`[2026/1/6]`** We released the code **v1.0**.
