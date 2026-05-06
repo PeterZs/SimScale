@@ -514,3 +514,12 @@ If any parts of our paper and code help your research, please consider citing us
         year={2025}
       }
 ```
+## Star History
+
+<a href="https://www.star-history.com/?repos=OpenDriveLab%2FSimScale&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=OpenDriveLab/SimScale&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=OpenDriveLab/SimScale&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=OpenDriveLab/SimScale&type=date&legend=top-left" />
+ </picture>
+</a>
