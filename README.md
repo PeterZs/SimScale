@@ -507,13 +507,13 @@ The released data is based on [nuPlan](https://www.nuscenes.org/nuplan) and is u
 If any parts of our paper and code help your research, please consider citing us and giving a star to our repository.
 
 ```bibtex
-@article{tian2025simscale,
-        title={SimScale: Learning to Drive via Real-World Simulation at Scale},
-        author={Haochen Tian and Tianyu Li and Haochen Liu and Jiazhi Yang and Yihang Qiu and Guang Li and Junli Wang and Yinfeng Gao and Zhang Zhang and Liang Wang and Hangjun Ye and Tieniu Tan and Long Chen and Hongyang Li},
-        journal={arXiv preprint arXiv:2511.23369},
-        year={2025}
-      }
+@inproceedings{tian2026simscale,
+  title={SimScale: Learning to Drive via Real-World Simulation at Scale},
+  author={Tian, Haochen and Li, Tianyu and Liu, Haochen and Yang, Jiazhi and Qiu, Yihang and Li, Guang and Wang, Junli and Gao, Yinfeng and Zhang, Zhang and Wang, Liang and Ye, Hangjun and Chen, Long and Li, Hongyang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
 ```
+
 ## Star History
 
 <a href="https://www.star-history.com/?repos=OpenDriveLab%2FSimScale&type=date&legend=top-left">
